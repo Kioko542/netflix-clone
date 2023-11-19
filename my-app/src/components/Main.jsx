@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import requests from "../requests";
+import requests from "../pages/requests";
 import axios from "axios";
 const Main = () => {
   const [movies, setMovies] = useState([]);
