@@ -9,7 +9,7 @@ Features
     Dynamic Content: Fetches and displays movies and TV shows from an api
     Responsive Design: Ensures a seamless experience across various devices and screen sizes.
     Tailwind CSS: Styling is implemented using Tailwind CSS for a clean and modern look.
-    Slider Navigation:Intuitive slider navigation for easy scrolling through  shows.
+    Slider Navigation: Intuitive slider navigation for easy scrolling through  shows.
 Technologies Used
 
     React
@@ -22,9 +22,9 @@ Getting Started
 
     bash
 
-git clone https://github.com/your-username/myflix.git
+git clone 
 
-Install dependencies:
+Install dependencies:npm install
 
 bash
 
